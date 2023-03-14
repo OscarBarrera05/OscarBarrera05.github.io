@@ -1,0 +1,30 @@
+#titulo{
+display: inline-block;
+text-align: center;
+width: 100%;
+font-family: sans-serif;
+    color:black;
+}
+.parrafo{
+    font-family:fantasy;
+    clear: both;
+}
+#imagen{
+    display: inline-block;
+    border-image-width: auto;
+
+}
+#jaguar{
+    border:double;
+    float:right;
+}
+#jagu{
+    border: double;
+    float: left;
+}
+#logo2{
+    border: double;
+    float:right;
+}
+
+    

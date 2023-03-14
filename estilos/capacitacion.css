@@ -1,0 +1,56 @@
+#titulo{
+    color: blueviolet;
+    text-align: center;
+    width: 100%;
+font-family: sans-serif;
+}
+#parrafo1{
+    text-align: left;
+    font-family: fantasy;
+    height: 14px;
+}
+#titulo2{
+    color: blueviolet;
+    text-align: left;
+    width: 50%;
+font-family: fantasy;
+}
+#titulo3{
+    color: blueviolet;
+    text-align: left;
+    width: 50%;
+font-family: fantasy;
+}
+#titulo4{
+    color: blueviolet;
+    text-align: left;
+    width: 50%;
+font-family: fantasy;
+}
+#titulo5{
+    color: royalblue;
+    text-align: left;
+    width: 50%;
+font-family: fantasy;
+}
+#titulo6{
+    color: deeppink;
+    text-align: left;
+    width: 50%;
+font-family: fantasy;
+}
+#parrafos{
+    text-align: left;
+    font-family:fantasy;
+}
+#marcox{
+    float:up;
+    text-align: right;
+    width:50%;
+    margin-left:50%;
+}
+#parrafo2{
+    text-align: left;
+    font-family: fantasy;
+    height: 14px;
+}

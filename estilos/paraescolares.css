@@ -1,0 +1,68 @@
+#titulo{
+    color: royalblue;
+    text-align: center;
+    width: 100%;
+font-family: fantasy;
+}
+#parrafo1{
+    text-align: right;
+    font-family: fantasy;
+    height: 10px;
+}
+#titulo2{
+    color:green;
+    text-align: right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#titulo3{
+    color: green;
+    text-align:right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#titulo4{
+    color: green;
+    text-align: right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#titulo5{
+    color: green;
+    text-align: right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#titulo6{
+    color: green;
+    text-align: right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#parrafos{
+    text-align: center;
+    font-family: fantasy;
+}
+#marcox{
+    float:right;
+    align-items: center;
+}
+#titulo7{
+    color: green;
+    text-align: right;
+    width: 50%;
+font-family: fantasy;
+    border:double;
+}
+#parrafos3{
+    text-align: left;
+    color: black;
+    font-family: fantasy;
+    border:double;
+    width: 100%;
+}
